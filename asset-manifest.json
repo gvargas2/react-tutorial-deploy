@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-tutorial-deploy/static/css/main.a436cb7d.chunk.css",
+    "main.js": "/react-tutorial-deploy/static/js/main.1ecac012.chunk.js",
+    "main.js.map": "/react-tutorial-deploy/static/js/main.1ecac012.chunk.js.map",
+    "runtime-main.js": "/react-tutorial-deploy/static/js/runtime-main.6e7e056a.js",
+    "runtime-main.js.map": "/react-tutorial-deploy/static/js/runtime-main.6e7e056a.js.map",
+    "static/js/2.29478003.chunk.js": "/react-tutorial-deploy/static/js/2.29478003.chunk.js",
+    "static/js/2.29478003.chunk.js.map": "/react-tutorial-deploy/static/js/2.29478003.chunk.js.map",
+    "index.html": "/react-tutorial-deploy/index.html",
+    "precache-manifest.c5ff49c484ceeaec952e9e1c152d68cb.js": "/react-tutorial-deploy/precache-manifest.c5ff49c484ceeaec952e9e1c152d68cb.js",
+    "service-worker.js": "/react-tutorial-deploy/service-worker.js",
+    "static/css/main.a436cb7d.chunk.css.map": "/react-tutorial-deploy/static/css/main.a436cb7d.chunk.css.map",
+    "static/js/2.29478003.chunk.js.LICENSE.txt": "/react-tutorial-deploy/static/js/2.29478003.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e7e056a.js",
+    "static/js/2.29478003.chunk.js",
+    "static/css/main.a436cb7d.chunk.css",
+    "static/js/main.1ecac012.chunk.js"
+  ]
+}
